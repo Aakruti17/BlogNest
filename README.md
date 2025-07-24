@@ -35,3 +35,9 @@ The app uses React components to create a modular and maintainable codebase with
 - Each blog card links to a detailed page (not included in the snippet but linked via link prop).
 - Modify or add additional blog cards by adding new BlogCard components in App.js.
 - Customize the style in App.css.
+
+## 👤 Author
+Aakruti Gulhane
+* 📧 aakrutigulhane117@gmail.com
+* 🌐 https://github.com/Aakruti17
+* 🔗 https://www.linkedin.com/in/aakruti-gulhane-397035291/
